@@ -98,12 +98,12 @@
 		</header>
 
 		<div class="entry-content">
-			<h2><a href="/wp-content/uploads/2015/07/LJ_DataCycle_Diagram.png"><img class="alignleft size-full wp-image-948" src="//wp-content/uploads/2015/07/LJ_DataCycle_Diagram.png" alt="LJ Data Cycle" width="960" height="720" /></a></h2>
+			<h2><a href="/wp-content/uploads/2015/07/LJ_DataCycle_Diagram.png"><img class="alignleft size-full wp-image-948" src="/wp-content/uploads/2015/07/LJ_DataCycle_Diagram.png" alt="LJ Data Cycle" width="960" height="720" /></a></h2>
 <h2><b>Musician URIs</b></h2>
 <p>For every musician discovered in a transcript, we generate a URI for that person which takes the form of our namespace plus the person’s name without spaces<b>: </b></p>
 <pre>//resource/Ella_Fitzgerald</pre>
 <p>If the same individual already has a URI in DBPedia, we create a <i>sameAs </i>triple to connect that URI with our Linked Jazz URI.</p>
-<div id="attachment_953" style="width: 612px" class="wp-caption alignleft"><a href="/page/Ella_Fitzgerald" target="_blank"><img class="wp-image-953 size-full" src="//wp-content/uploads/2015/07/LodView-sameAs.png" alt="LodView sameAs" width="602" height="193" /></a><p class="wp-caption-text">From LodView: <a href="/page/Ella_Fitzgerald">localhost/resource/Ella_Fitzgerald</a></p></div>
+<div id="attachment_953" style="width: 612px" class="wp-caption alignleft"><a href="/page/Ella_Fitzgerald" target="_blank"><img class="wp-image-953 size-full" src="/wp-content/uploads/2015/07/LodView-sameAs.png" alt="LodView sameAs" width="602" height="193" /></a><p class="wp-caption-text">From LodView: <a href="/page/Ella_Fitzgerald">localhost/resource/Ella_Fitzgerald</a></p></div>
 <h2><b>Relationship Data</b></h2>
 <p>When fed with an interview transcript, the <a title="Transcript Analyzer" href="/tools/transcript-analyzer/">Analyzer</a> breaks the text into question-and-answer blocks, and leverages this structure to automatically identify a connection between two individuals based on the assumption that if the interviewee mentions a person, she or he must at least <i>know of</i> the person cited. An RDF triple is then generated that states this basic relationship:</p>
 <pre>&lt;//resource/Clark_Terrry&gt; &lt;http://purl.org/vocab/relationship/knowsOf&gt; &lt;//resource/Ella_Fitzgerald&gt; .</pre>
