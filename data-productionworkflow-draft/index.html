@@ -70,8 +70,8 @@
 	<li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455"><a href="/tools/transcript-analyzer/">Analyzer</a></li>
 	<li id="menu-item-456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-456"><a href="/tools/name-mapping-tool-and-curator/">Name Mapping &#038; Curator Tool</a></li>
 	<li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-731"><a href="/tools/ecco/">Ecco!</a></li>
-	<li id="menu-item-402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="//52ndStreet/">Linked Jazz 52nd Street</a></li>
-	<li id="menu-item-401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401"><a href="//network/">Network Visualization Tool</a></li>
+	<li id="menu-item-402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="/52ndStreet/">Linked Jazz 52nd Street</a></li>
+	<li id="menu-item-401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401"><a href="/network/">Network Visualization Tool</a></li>
 	<li id="menu-item-936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-936"><a href="/tools/lodlive/">LodLive</a></li>
 </ul>
 </li>
@@ -98,17 +98,17 @@
 		</header>
 
 		<div class="entry-content">
-			<h2><a href="//wp-content/uploads/2015/07/LJ_DataCycle_Diagram.png"><img class="alignleft size-full wp-image-948" src="//wp-content/uploads/2015/07/LJ_DataCycle_Diagram.png" alt="LJ Data Cycle" width="960" height="720" /></a></h2>
+			<h2><a href="/wp-content/uploads/2015/07/LJ_DataCycle_Diagram.png"><img class="alignleft size-full wp-image-948" src="//wp-content/uploads/2015/07/LJ_DataCycle_Diagram.png" alt="LJ Data Cycle" width="960" height="720" /></a></h2>
 <h2><b>Musician URIs</b></h2>
 <p>For every musician discovered in a transcript, we generate a URI for that person which takes the form of our namespace plus the person’s name without spaces<b>: </b></p>
 <pre>//resource/Ella_Fitzgerald</pre>
 <p>If the same individual already has a URI in DBPedia, we create a <i>sameAs </i>triple to connect that URI with our Linked Jazz URI.</p>
 <div id="attachment_953" style="width: 612px" class="wp-caption alignleft"><a href="/page/Ella_Fitzgerald" target="_blank"><img class="wp-image-953 size-full" src="//wp-content/uploads/2015/07/LodView-sameAs.png" alt="LodView sameAs" width="602" height="193" /></a><p class="wp-caption-text">From LodView: <a href="/page/Ella_Fitzgerald">localhost/resource/Ella_Fitzgerald</a></p></div>
 <h2><b>Relationship Data</b></h2>
-<p>When fed with an interview transcript, the <a title="Transcript Analyzer" href="//tools/transcript-analyzer/">Analyzer</a> breaks the text into question-and-answer blocks, and leverages this structure to automatically identify a connection between two individuals based on the assumption that if the interviewee mentions a person, she or he must at least <i>know of</i> the person cited. An RDF triple is then generated that states this basic relationship:</p>
+<p>When fed with an interview transcript, the <a title="Transcript Analyzer" href="/tools/transcript-analyzer/">Analyzer</a> breaks the text into question-and-answer blocks, and leverages this structure to automatically identify a connection between two individuals based on the assumption that if the interviewee mentions a person, she or he must at least <i>know of</i> the person cited. An RDF triple is then generated that states this basic relationship:</p>
 <pre>&lt;//resource/Clark_Terrry&gt; &lt;http://purl.org/vocab/relationship/knowsOf&gt; &lt;//resource/Ella_Fitzgerald&gt; .</pre>
-<p>In addition to automatic processing, we also employ <i>human</i> processing to generate data. Through our crowdsourcing tool <a title="Linked Jazz 52nd Street" href="//tools/linked-jazz-52nd-street/">52nd Street</a>, volunteers are presented with snippets of interview text and asked to assign more specific terms to describe the relationship between the interviewee and the person mentioned. When the volunteer chooses a relationship from a list of options, this action generates a triple that will be stored in our dataset.</p>
-<p>Read about how to <a title="Access" href="//access/">Access/Query the data &gt;&gt;</a></p>
+<p>In addition to automatic processing, we also employ <i>human</i> processing to generate data. Through our crowdsourcing tool <a title="Linked Jazz 52nd Street" href="/tools/linked-jazz-52nd-street/">52nd Street</a>, volunteers are presented with snippets of interview text and asked to assign more specific terms to describe the relationship between the interviewee and the person mentioned. When the volunteer chooses a relationship from a list of options, this action generates a triple that will be stored in our dataset.</p>
+<p>Read about how to <a title="Access" href="/access/">Access/Query the data &gt;&gt;</a></p>
 					</div><!-- .entry-content -->
 		<footer class="entry-meta">
 					</footer><!-- .entry-meta -->
@@ -130,8 +130,8 @@
 <a href="https://www.facebook.com/linkedjazz" target="_blank"><img width=30 src="/image/facebook.png"></a>
 <a href="mailto:foaf.Person@semlab.io"><img width=30 src="/image/mail.png"></a>
 <br><hr>
-<a href="//api/" target="_blank"><img width=150 src="/image/API.png"></a><br><br>
-<a href="//network" target="_blank"><img width=150 src="/image/vizbutton.png"></a><br><br><a href="//52ndStreet" target="_blank"><img width=150 src="/image/52ndstreetbutton.png"></a>
+<a href="/api/" target="_blank"><img width=150 src="/image/API.png"></a><br><br>
+<a href="/network" target="_blank"><img width=150 src="/image/vizbutton.png"></a><br><br><a href="/52ndStreet" target="_blank"><img width=150 src="/image/52ndstreetbutton.png"></a>
 <br>
 <hr>
 

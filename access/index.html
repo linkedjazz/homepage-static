@@ -70,8 +70,8 @@
 	<li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-455"><a href="/tools/transcript-analyzer/">Analyzer</a></li>
 	<li id="menu-item-456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-456"><a href="/tools/name-mapping-tool-and-curator/">Name Mapping &#038; Curator Tool</a></li>
 	<li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-731"><a href="/tools/ecco/">Ecco!</a></li>
-	<li id="menu-item-402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="//52ndStreet/">Linked Jazz 52nd Street</a></li>
-	<li id="menu-item-401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401"><a href="//network/">Network Visualization Tool</a></li>
+	<li id="menu-item-402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="/52ndStreet/">Linked Jazz 52nd Street</a></li>
+	<li id="menu-item-401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401"><a href="/network/">Network Visualization Tool</a></li>
 	<li id="menu-item-936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-936"><a href="/tools/lodlive/">LodLive</a></li>
 </ul>
 </li>
@@ -121,13 +121,13 @@ lj:Mary_Lou_Williams rel:knowsOf ?object<br />
 <p>We are using LodView to display our human-readable dereferenced URIs. Developed by the LodLive team, LodView is a java web application that draws from the triples available via our SPARQL Endpoint. It displays attributes of the resource (such as type) and name. It also shows inverse relations (in other words, relationships for which the URI is the object, not the subject of the triple). For more about LodView, see developer Diego Camarda’s <a href="https://github.com/dvcama/LodView">github repository.</a></p>
 <p>Machines can request Linked Jazz data in a few standard formats (N-triples, Turtle, XML, and JSON-LD). If you want to try, open up a Terminal and type one of the following:<br />
 <i>N-Triples:</i><i><br />
-</i><i>curl -L -H &#8220;Accept: text/rdf+n3&#8243; </i><a href="//resource/Billy_Eckstine"><i>//resource/</i></a><i>Mary_Lou_Williams</i><i><br />
+</i><i>curl -L -H &#8220;Accept: text/rdf+n3&#8243; </i><a href="/resource/Billy_Eckstine"><i>//resource/</i></a><i>Mary_Lou_Williams</i><i><br />
 </i><i>Turtle:</i><i><br />
 </i><i>curl -L -H &#8220;Accept: text/turtle&#8221; //resource/Mary_Lou_Williams</i><i><br />
 </i><i>XML:</i><i><br />
 </i><i>curl -L -H &#8220;Accept: application/rdf+xml&#8221; //resource/Mary_Lou_Williams</i><i><br />
 </i><i>JSON-LD:</i><i><br />
-</i><i>curl -L -H &#8220;Accept: application/rdf+json&#8221; </i><a href="//resource/Mary_Lou_Williams"><i>//resource/Mary_Lou_Williams</i></a></p>
+</i><i>curl -L -H &#8220;Accept: application/rdf+json&#8221; </i><a href="/resource/Mary_Lou_Williams"><i>//resource/Mary_Lou_Williams</i></a></p>
 <h2><b>Data Dumps</b></h2>
 <p>Linked Jazz provides dumps of <i>people </i>and <i>relationship </i>data in various formats. Relationship information has two facets:</p>
 <ol>
@@ -136,9 +136,9 @@ lj:Mary_Lou_Williams rel:knowsOf ?object<br />
 </ol>
 <p>All annotations are returned for a specific relationship, these annotations are added to the system by visitors to the Linked Jazz 52nd St. crowdsourcing tool. Currently, we do not aggregate the varying opinions of a specific relationship into a quantified value. Rather, all opinions (even duplicate) are included in the dump. Data is available in triple format or as a Gephi file. Annotated relationships are not returned in the Gephi network, only a single basic rel:knowsOf. Data dumps are updated hourly.</p>
 <p>Get all people in triple format:</p>
-<p><a href="//api/people/all/nt">//api/people/all/nt</a></p>
+<p><a href="/api/people/all/nt">//api/people/all/nt</a></p>
 <p>Get all relationships in triple format (includes crowdsourcing data):</p>
-<p><a href="//api/relationships/all/nt">//api/relationships/all/nt</a></p>
+<p><a href="/api/relationships/all/nt">//api/relationships/all/nt</a></p>
 <p>Get all relationships in a Gephi file (only includes rel:knowsOf relationships):</p>
 <p><a href="/api/relationships/all/gexf">/api/relationships/all/gexf</a></p>
 <p>&nbsp;</p>
@@ -164,8 +164,8 @@ lj:Mary_Lou_Williams rel:knowsOf ?object<br />
 <a href="https://www.facebook.com/linkedjazz" target="_blank"><img width=30 src="/image/facebook.png"></a>
 <a href="mailto:foaf.Person@semlab.io"><img width=30 src="/image/mail.png"></a>
 <br><hr>
-<a href="//api/" target="_blank"><img width=150 src="/image/API.png"></a><br><br>
-<a href="//network" target="_blank"><img width=150 src="/image/vizbutton.png"></a><br><br><a href="//52ndStreet" target="_blank"><img width=150 src="/image/52ndstreetbutton.png"></a>
+<a href="/api/" target="_blank"><img width=150 src="/image/API.png"></a><br><br>
+<a href="/network" target="_blank"><img width=150 src="/image/vizbutton.png"></a><br><br><a href="/52ndStreet" target="_blank"><img width=150 src="/image/52ndstreetbutton.png"></a>
 <br>
 <hr>
 
