@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Linked Jazz</title>
+	<atom:link href="https://linkedjazz.org/feed/" rel="self" type="application/rss+xml" />
+	<link>https://linkedjazz.org</link>
+	<description>Revealing the Relationships of the Jazz Community</description>
+	<lastBuildDate>Sun, 04 Mar 2018 22:07:57 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.0</generator>
+	<item>
+		<title>Linked Jazz Now Part of Semantic Lab at Pratt</title>
+		<link>https://linkedjazz.org/linked-jazz-now-part-of-semantic-lab-at-pratt/</link>
+		<comments>https://linkedjazz.org/linked-jazz-now-part-of-semantic-lab-at-pratt/#comments</comments>
+		<pubDate>Fri, 02 Mar 2018 02:24:39 +0000</pubDate>
+		<dc:creator><![CDATA[linkedjazz]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[semantic]]></category>
+		<category><![CDATA[semantic lab]]></category>
+
+		<guid isPermaLink="false">http://linkedjazz.org/?p=1486</guid>
+		<description><![CDATA[We are pleased to announce the introduction of the Semantic Lab at Pratt, which will serve as a testbed and incubator for the development of novel methodologies and tools for the application of semantic technologies to libraries, archives, and museums. Linked Jazz will now find its new home under The Semantic Lab collective, along with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">We are pleased to announce the introduction of the <a href="http://semlab.io" target="_blank">Semantic Lab at Pratt</a>, which will serve as a testbed and incubator for the development of novel methodologies and tools for the application of semantic technologies to libraries, archives, and museums. Linked Jazz will now find its new home under The Semantic Lab collective, along with new projects, including DADAlytics. We appreciate your continued interest and support as we expand the Linked Jazz semantic work in new directions.</p>
+<p style="text-align: justify; padding-left: 30px;"><a href="https://semlab.io" target="_blank"><img class="alignleft wp-image-1488" src="http://linkedjazz.org/wp-content/uploads/2018/03/logo_semlab_transparent-150x150.png" alt="logo_semlab_transparent" width="68" height="68" /></a><strong>Keep up with our progress:</strong><br />
+Follow us on twitter [ <a title="SemLab Twitter" href="https://twitter.com/semlabteam" target="_blank">@semlabteam</a> ]<br />
+Email us [ <a title="foaf.Person@semlab.io" href="mailto:foaf.Person@semlab.io" target="_blank">foaf.Person@semlab.io</a> ]<br />
+Visit us [ <a title="semlab.io" href="https://semlab.io" target="_blank">semlab.io</a> ]</p>
+]]></content:encoded>
+			<wfw:commentRss>https://linkedjazz.org/linked-jazz-now-part-of-semantic-lab-at-pratt/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IMLS National Leadership Grant for Libraries awarded to Linked Jazz team for development of DADAlytics text analysis tools</title>
+		<link>https://linkedjazz.org/national-digital-platform-planning-grant-awarded-to-linked-jazz-team-for-development-of-dadalytics-text-analysis-tools/</link>
+		<comments>https://linkedjazz.org/national-digital-platform-planning-grant-awarded-to-linked-jazz-team-for-development-of-dadalytics-text-analysis-tools/#comments</comments>
+		<pubDate>Sun, 24 Sep 2017 19:44:56 +0000</pubDate>
+		<dc:creator><![CDATA[linkedjazz]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://linkedjazz.org/?p=1442</guid>
+		<description><![CDATA[The School of Information at Pratt Institute will develop a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project will build on previous work to develop the Linked [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The School of Information at Pratt Institute will develop a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project will build on previous work to develop the Linked Jazz Transcript Analyzer, extending that tool&#8217;s functionality and making it more widely available for use by other institutions.</p>
+<p><a href="http://linkedjazz.org/wp-content/uploads/2017/09/LJ_Transcript_Analyzer.png"><img class="alignright size-large wp-image-1443" src="http://linkedjazz.org/wp-content/uploads/2017/09/LJ_Transcript_Analyzer-1024x480.png" alt="LJ_Transcript_Analyzer" width="625" height="292" /></a></p>
+<p>&nbsp;</p>
+<p>Grant funds will support the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders and the development of a prototype.<br />
+<strong>IMLS National Leadership Grant for Libraries, National Digital Platform &#8211; Planning Grant</strong><br />
+<strong><a href="https://www.imls.gov/grants/awarded/LG-72-17-0179-17">LG-72-17-0179-17</a></strong></p>
+<p><em>“We are thrilled that the IMLS will be supporting a project in the heart of New York City at Pratt Institute’s School of Information: Dr. Cristina’s Pattuelli’s project “DADAlytics: A Tool to Steer Digital Culture Heritage to the Semantic Web.” We expect this project will lead to great insight and make significant progress in developing tools that help expose and connect the digital cultural heritage content held by libraries, archives and museums. This work will positively impact researchers, students, and anyone interested in discovering cultural heritage content through the web.”<br />
+</em>- <b>Dr. Anthony Cocciolo, Interim Dean, Pratt Institute School of Information</b>.</p>
+<p style="text-align: justify;">Mentioned in a press release from Sen. Schumer&#8217;s office: <a href="http://bit.ly/2xscZkg">http://bit.ly/2xscZkg</a></p>
+]]></content:encoded>
+			<wfw:commentRss>https://linkedjazz.org/national-digital-platform-planning-grant-awarded-to-linked-jazz-team-for-development-of-dadalytics-text-analysis-tools/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Linked Jazz Reviewed in the Journal of the American Musicological Society</title>
+		<link>https://linkedjazz.org/linked-jazz-reviewed-in-the-journal-of-the-american-musicological-society/</link>
+		<comments>https://linkedjazz.org/linked-jazz-reviewed-in-the-journal-of-the-american-musicological-society/#comments</comments>
+		<pubDate>Wed, 08 Mar 2017 20:01:04 +0000</pubDate>
+		<dc:creator><![CDATA[linkedjazz]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Press]]></category>
+
+		<guid isPermaLink="false">http://linkedjazz.org/?p=1380</guid>
+		<description><![CDATA[Dr. Michael Heller, jazz scholar and musicologist at University of Pittsburgh, positively reviewed the work of Cristina Pattuelli and Linked Jazz for the Journal of the American Musicological Society&#8217;s Fall 2016 issue. &#8220;The Linked Jazz project is to be highly commended for actively developing new computational tools by which to aid jazz historical work. By [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Dr. Michael Heller, jazz scholar and musicologist at University of Pittsburgh, positively reviewed the work of Cristina Pattuelli and Linked Jazz for the Journal of the American Musicological Society&#8217;s Fall 2016 issue.</p>
+<p style="text-align: justify;"><a href="http://linkedjazz.org/wp-content/uploads/2017/03/journalofmusicology.jpg"><img class="alignright size-large wp-image-1381" src="http://linkedjazz.org/wp-content/uploads/2017/03/journalofmusicology-1024x750.jpg" alt="journalofmusicology" width="625" height="457" /></a></p>
+<blockquote>
+<p style="text-align: justify;">&#8220;The Linked Jazz project is to be highly commended for actively developing new computational tools by which to aid jazz historical work. By closely defining the object of analysis, methodically developing appropriate digital tools, and doing so in close dialog with other current movements in information science (particularly LOD), the project is building a powerful and adaptable digital humanities tool with a tremendous degree of future potential. In addition, by making both the full data set and the source code of the software freely available through the open-source &#8216;MIT License,&#8217; its designers make it possible for other programmers and researchers to build up-on those tools in any number of creative ways.&#8221;</p>
+<p style="text-align: justify;">- Michael C. Heller [1]</p>
+</blockquote>
+<p style="text-align: justify;"><strong>References:</strong><br />
+<strong><span style="font-weight: 400;">1. Heller, M.C. (2016). Review: Linked Jazz. </span><i><span style="font-weight: 400;">Journal of the American Musicological Society</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">69</span></i><span style="font-weight: 400;">(3), 879-891. doi: 10.1525/jams.2016.69.3.879.</span></strong></p>
+]]></content:encoded>
+			<wfw:commentRss>https://linkedjazz.org/linked-jazz-reviewed-in-the-journal-of-the-american-musicological-society/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dr. Pattuelli Recognized by Jazz Education Network</title>
+		<link>https://linkedjazz.org/dr-pattuelli-recognized-by-jazz-education-network/</link>
+		<comments>https://linkedjazz.org/dr-pattuelli-recognized-by-jazz-education-network/#comments</comments>
+		<pubDate>Wed, 15 Feb 2017 16:04:22 +0000</pubDate>
+		<dc:creator><![CDATA[linkedjazz]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://linkedjazz.org/?p=1377</guid>
+		<description><![CDATA[Dr. Cristina Pattuelli, director of the Linked Jazz project, received special recognition for outstanding contribution to the field of jazz education from the Jazz Education Network during the 8th Annual JEN Conference in New Orleans, Louisiana, January 4-7, 2017. Congratulations, Dr. Pattuelli!]]></description>
+				<content:encoded><![CDATA[<p>Dr. Cristina Pattuelli, director of the Linked Jazz project, received special recognition for outstanding contribution to the field of jazz education from the Jazz Education Network during the 8th Annual JEN Conference in New Orleans, Louisiana, January 4-7, 2017.</p>
+<p><a href="http://linkedjazz.org/wp-content/uploads/2017/02/20170406173253203-1.jpg"><img class="size-large wp-image-1398 aligncenter" src="http://linkedjazz.org/wp-content/uploads/2017/02/20170406173253203-1-1024x791.jpg" alt="20170406173253203 (1)" width="625" height="482" /></a></p>
+<p>Congratulations, Dr. Pattuelli!</p>
+]]></content:encoded>
+			<wfw:commentRss>https://linkedjazz.org/dr-pattuelli-recognized-by-jazz-education-network/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>8th Annual JEN Conference</title>
+		<link>https://linkedjazz.org/8th-annual-jen-conference/</link>
+		<comments>https://linkedjazz.org/8th-annual-jen-conference/#comments</comments>
+		<pubDate>Thu, 02 Feb 2017 20:31:04 +0000</pubDate>
+		<dc:creator><![CDATA[linkedjazz]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://linkedjazz.org/?p=1362</guid>
+		<description><![CDATA[In an effort to tackle the gender bias on Wikipedia and foster jazz appreciation, Linked Jazz hosted a New Orleans Women of Jazz Wikipedia edit-a-thon at the 8th Annual JEN Conference this January.   Search #WomenofJazz on Twitter to see what fellow Wikipedians contributed! &#160; &#160;]]></description>
+				<content:encoded><![CDATA[<p>In an effort to tackle the <a href="https://en.wikipedia.org/wiki/Gender_bias_on_Wikipedia">gender bias on Wikipedia</a> and foster jazz appreciation, Linked Jazz hosted a <a href="https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz">New Orleans Women of Jazz Wikipedia edit-a-thon</a> at the 8th Annual JEN Conference this January.   Search #WomenofJazz on Twitter to see what fellow Wikipedians contributed!</p>
+<div id="attachment_1364" style="width: 636px" class="wp-caption alignleft"><a href="http://linkedjazz.org/wp-content/uploads/2017/02/Screen-Shot-2017-02-02-at-2.17.07-PM.png"><img class="wp-image-1364 size-full" src="http://linkedjazz.org/wp-content/uploads/2017/02/Screen-Shot-2017-02-02-at-2.17.07-PM.png" alt="Screen Shot 2017-02-02 at 2.17.07 PM" width="626" height="469" /></a><p class="wp-caption-text">New Orleans Women of Jazz Wikipedia Edit-A-Thon live at the 9th Annual JEN Conference in New Orleans on January 6, 2017.</p></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>https://linkedjazz.org/8th-annual-jen-conference/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>LODLAM Course Now Offered at Pratt SI</title>
+		<link>https://linkedjazz.org/lodlam-course-now-offered-at-pratt-si/</link>
+		<comments>https://linkedjazz.org/lodlam-course-now-offered-at-pratt-si/#comments</comments>
+		<pubDate>Sun, 15 Jan 2017 18:43:23 +0000</pubDate>
+		<dc:creator><![CDATA[linkedjazz]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://linkedjazz.org/?p=1356</guid>
+		<description><![CDATA[Linked Open Data in Libraries, Archives, and Museums (LODLAM) is one of the fastest growing areas of data development, offering users new and exciting avenues of creation, discovery, interaction, and analysis of digital cultural heritage content. LIS 670 introduces the fundamental principles, best practices, and latest technologies behind Linked Data and the Semantic Web. The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://linkedjazz.org/wp-content/uploads/2017/01/unnamed.png"><img class="alignleft size-large wp-image-1357" src="http://linkedjazz.org/wp-content/uploads/2017/01/unnamed-1024x730.png" alt="" width="625" height="445" /></a></p>
+<p><strong>Linked Open Data in Libraries, Archives, and Museums (LODLAM)</strong> is one of the fastest growing areas of data development, offering users new and exciting avenues of creation, discovery, interaction, and analysis of digital cultural heritage content.</p>
+<p><strong>LIS 670</strong> introduces the fundamental principles, best practices, and latest technologies behind Linked Data and the Semantic Web. The course will cover the lifecycle of linked data development &#8212; from data modeling to dissemination and consumption. Through a series of readings, guest speakers, and projects, students will explore how memory institutions and cultural organizations create and share Linked Open Data.</p>
+<p>This course is taught by Dr. Cristina Pattuelli, Associate Professor at Pratt Institute School of Information, Director of the Linked Jazz Project, and Co-Chair of the 4th International LODLAM Summit.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://linkedjazz.org/lodlam-course-now-offered-at-pratt-si/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Upcoming Women of Jazz Edit-a-Thon in New Orleans</title>
+		<link>https://linkedjazz.org/upcoming-women-of-jazz-edit-a-thon-in-new-orleans/</link>
+		<comments>https://linkedjazz.org/upcoming-women-of-jazz-edit-a-thon-in-new-orleans/#comments</comments>
+		<pubDate>Thu, 22 Dec 2016 02:50:34 +0000</pubDate>
+		<dc:creator><![CDATA[linkedjazz]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Wikipedia]]></category>
+		<category><![CDATA[Women in Jazz]]></category>
+
+		<guid isPermaLink="false">http://linkedjazz.org/?p=1353</guid>
+		<description><![CDATA[Linked Jazz will be hosting a Wikipedia edit-a-thon event with the Jazz Education Network as part of JEN’s 8th Annual Conference in New Orleans. The event will center on New Orleans women in jazz and related styles, working to fill the gaps of Wikipedia’s coverage of musicians who are women. While conference registration is required [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Linked Jazz will be hosting a <a href="https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz">Wikipedia edit-a-thon event</a> with the <a href="https://jazzednet.org/">Jazz Education Network</a> as part of <a href="https://jazzednet.org/Registration">JEN’s 8th Annual Conference</a> in New Orleans. The event will center on New Orleans women in jazz and related styles, working to fill the gaps of Wikipedia’s coverage of musicians who are women. While conference registration is required to attend the event, we welcome contributions from remote editors!</p>
+<p><b>Date</b>: Friday, January 6, 2017<br />
+<b>Time</b>: 2:00 pm &#8211; 5:00 pm<br />
+#WomenOfJazz</p>
+]]></content:encoded>
+			<wfw:commentRss>https://linkedjazz.org/upcoming-women-of-jazz-edit-a-thon-in-new-orleans/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Linked Data for Cultural Heritage Book Chapter</title>
+		<link>https://linkedjazz.org/linked-data-for-cultural-heritage-book-chapter/</link>
+		<comments>https://linkedjazz.org/linked-data-for-cultural-heritage-book-chapter/#comments</comments>
+		<pubDate>Thu, 22 Dec 2016 02:48:59 +0000</pubDate>
+		<dc:creator><![CDATA[linkedjazz]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[publishing]]></category>
+
+		<guid isPermaLink="false">http://linkedjazz.org/?p=1351</guid>
+		<description><![CDATA[We are pleased to announce that Hilary Thorsen and Cristina Pattuelli have published a chapter in the recent book Linked Data for Cultural Heritage (edited by Ed Jones and Michele Seikel) titled Linked Open Data and the Cultural Heritage Landscape. The volume includes chapters from an excellent set of contributors focused on linked data in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We are pleased to announce that Hilary Thorsen and Cristina Pattuelli have published a chapter in the recent book <i>Linked Data for Cultural Heritage </i>(edited by Ed Jones and Michele Seikel) titled <i>Linked Open Data and the Cultural Heritage Landscape. </i>The volume includes chapters from an excellent set of contributors focused on linked data in the context of libraries, archives, and museums.  See the details from <a href="http://www.facetpublishing.co.uk/title.php?id=301621#table-of-contents-tab">Facet Publishing</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://linkedjazz.org/linked-data-for-cultural-heritage-book-chapter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Data Interlinking: Linked Jazz and Carnegie Hall</title>
+		<link>https://linkedjazz.org/data-interlinking-linked-jazz-and-carnegie-hall/</link>
+		<comments>https://linkedjazz.org/data-interlinking-linked-jazz-and-carnegie-hall/#comments</comments>
+		<pubDate>Mon, 05 Dec 2016 14:23:13 +0000</pubDate>
+		<dc:creator><![CDATA[Hannah Sistrunk]]></dc:creator>
+				<category><![CDATA[Work In Progress]]></category>
+		<category><![CDATA[Carnegie Hall]]></category>
+		<category><![CDATA[DBpedia]]></category>
+		<category><![CDATA[interlinking]]></category>
+		<category><![CDATA[mashups]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[RDF]]></category>
+
+		<guid isPermaLink="false">http://linkedjazz.org/?p=1269</guid>
+		<description><![CDATA[As linked data technology has developed over the last several years, the Linked Jazz project has continued to experiment — most recently interlinking our core jazz name entity list, derived from oral histories, with other jazz archival materials and their related metadata. Our research benefits from many ongoing collaborations, including that with Jeff Rubin and The Hogan [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As linked data technology has developed over the last several years, the Linked Jazz project has continued to experiment — most recently interlinking our core jazz name entity list, derived from oral histories, with other jazz archival materials and their related metadata. Our research benefits from many ongoing collaborations, including that with Jeff Rubin and<a href="https://jazz.tulane.edu/" target="_blank"> The Hogan Jazz Archive</a> at Tulane University (our work identifying jazz relationships through historical photographs from Tulane University archives has been <a href="https://linkedjazz.org/connecting-musicians-through-the-photo-archive/">described here</a> by William Levay), and with Gino Francesconi and Rob Hudson at the<a href="https://www.carnegiehall.org/History/Carnegie-Hall-Archives/" target="_blank"> Carnegie Hall Archives</a>. This post details a pilot we conducted to identify jazz musicians in both the Linked Jazz network and a subset of the Carnegie Hall Performance History Database focusing on jazz events from 1912-1955. From these entity matches, we created a visualization of the shared relationships between the two datasets. This first step in data interlinking allowed us to explore the possibilities as well as the limitations of the data integration process, and to identify common problems and best practices when reviewed alongside related use cases.</p>
+<p><span id="more-1269"></span></p>
+<p><b>An Interlinking Use Case<br />
+</b></p>
+<p><i>Carnegie Hall Data<br />
+</i>The Carnegie Hall Archives maintain a database of performance history that holds information about the events at the performance spaces of Carnegie Hall since 1891. Starting in 2013, they began to publish the information online as the<a href="http://www.carnegiehall.org/PerformanceHistorySearch/" target="_blank"> Performance History Search</a>, allowing users to explore some 50,000 unique events encompassing roughly 90,000 people/performers — a significant contribution to researchers of music and cultural history. As part of the performance history database effort, Carnegie Hall Associate Archivist Rob Hudson worked to transform the historical performance history data into Linked Open Data [1].</p>
+<p>This pilot study, undertaken by Hannah Sistrunk and Molly Reese-Lerner with the support of Matt Miller, focused on a well-curated subset of the full Carnegie Hall performance history data. Specifically, there were two data sources selected from ‘jazz’ genre (loosely defined) Carnegie Hall events from 1912 to May 1955:</p>
+<ol>
+<li>RDF triples describing 19197 people and their associated data (instrument played, birth/death date and location, profession)</li>
+<li>RDF triples describing 154 jazz events including performer and group names, date, place (e.g. main hall), and title (top of concert program)</li>
+</ol>
+<p style="padding-left: 30px;">Example of Ella Fitzgerald birthPlace triple from the Carnegie Hall person dataset:</p>
+<pre>&lt;http://data.carnegiehall.org/names/Ella_Fitzgerald&gt; &lt;http://dbpedia.org/ontology/birthPlace&gt; &lt;http://sws.geonames.org/4776024&gt;</pre>
+<p style="padding-left: 30px;">Example of Event dateTime triple from the Carnegie Hall event dataset:</p>
+<pre>&lt;http://data.carnegiehall.org/events/CH_19530424_2030&gt;&lt;http://purl.org/dc/terms/date&gt;"1953-04-24T20:30:00-05:00"^^&lt;http://www.w3.org/2001/XMLSchema#dateTime&gt; .</pre>
+<p>The event data was limited to ‘parent’ events. That is, many Carnegie Hall events are split into ‘sub-events,’ but for the purposes of this study we focused on the top-level event.</p>
+<p><i>Linked Jazz Data<br />
+</i>As other Linked Jazz posts and<a href="https://linkedjazz.org/publications/"> publications</a> have described, our dataset is built on a collection of 50+ jazz oral history transcripts from which relationships between jazz musicians are derived. When the person being interviewed mentions another person, an RDF triple is generated to describe that ‘Person A <i>knows of</i> Person B’. We used two Linked Jazz datasets for this study [2]:</p>
+<ol>
+<li>RDF triples of the Linked Jazz name list that includes a sameAs connection between the Linked Jazz URI and a commonly-sourced URI (primarily DBpedia), as well as the foaf:name for each person.</li>
+<li>RDF triples of relationships between Linked Jazz people</li>
+</ol>
+<p><i>Bringing It All Together<br />
+</i>Using these four datasets, we wrote a series of Python scripts that identified the people that existed in both domains (more on this process below). In other words, we identified the people who both performed in Carnegie Hall and were mentioned or interviewed in a Linked Jazz foundational jazz oral history (<b>total= 373</b>). From this group of matches and the relationship data from each context, we produced a new dataset containing 1) Linked Jazz relationships where a person in both contexts ‘knows of’ someone else (<b>total=3058</b>); 2) Carnegie Hall relationships where two people who are in both datasets performed at the same event (<b>total=6706</b>); 3) A subset of relationships that fall into both of the first two categories (<b>total=293</b>).</p>
+<p>The results were made available for exploration through an <a href="http://pfch.nyc/linked_jazz_meets_carnegie_hall/CH-LJ_network/index.html">interactive Gephi visualization.</a></p>
+<p><b>Matching Entities and Names</b></p>
+<p>Interlinking of information that has already been converted to the RDF format is significantly more straightforward than integration in other formats, but interoperability and interlinking in any format rely on shared entity authorities to assure that linked entities are verifiably the same entity. Linked Jazz prioritizes DBpedia to reconcile the names in our network (although we are now exploring Wikidata, which did not exist when the Linked Jazz project began), and includes 1518 DBpedia URIs, or 76%, of the 2008 people entities in our dataset. The remaining URIs are sourced from the Library of Congress Name Authority File (182 URIs), MusicBrainz (73 URIs), AllMusic (14 URIs), and Linked Jazz minted URIs where entities could not be identified from existing authorities at the time of creation (222 URIs).</p>
+<p>The RDF data provided by Carnegie Hall primarily used Carnegie Hall minted URIs for the thousands of people, events, and musical works; at the time of the RDF dataset creation, it was impractical to cobble together existing URIs for this large dataset that included many obscure people and works. However, there were a small number of DBpedia URIs (1449) that had been identified and added to the data. Matching DBpedia URIs in both datasets was a logical step to identify people in the Linked Jazz network who had also performed at Carnegie Hall. However, because not all people were identified with these URIs in the performance history data, we also relied on string matching of names between the datasets.</p>
+<div id="attachment_1328" style="width: 651px" class="wp-caption alignleft"><a href="http://linkedjazz.org/wp-content/uploads/2016/10/Ella-CH-LJ-DBpedia-matching2.png"><img class="size-full wp-image-1328" src="http://linkedjazz.org/wp-content/uploads/2016/10/Ella-CH-LJ-DBpedia-matching2.png" alt="Matching DBpedia URIs" width="641" height="242" /></a><p class="wp-caption-text">Matching people in both RDF datasets by their DBpedia URIs.</p></div>
+<p>In past Linked Jazz research, including our work with Tulane University archival jazz photographs, we approached string matching by using OpenRefine and the Google Refine Expression Language (GREL) to parse names and match them to URIs from authorities such as Virtual International Authority File (VIAF). We have also used Elasticsearch with large datasets to find potential matches between string names and close variants. As Linked Jazz researcher Karen Hwang demonstrated in her post on<a href="https://linkedjazz.org/enriching-the-linked-jazz-name-list-with-gender-information/"> Enriching the Linked Jazz Name List with Gender Information</a>, once a URI is identified it is often possible to move between URI authority sources for data enrichment and entity matching using relationships provided by a specific authority. For example, DBpedia often specifies the corresponding identifiers for VIAF, LC/NAF, MusicBrainz, and others. String names reconciled to URIs can be matched to other well-established URI sets such as those used by Linked Jazz.</p>
+<p>In this Linked Jazz-Carnegie Hall name string matching effort, we took a slightly different approach in matching names: we used a series of Python scripts with the Python Human Name Parser module to match foaf:name objects from each dataset.</p>
+<div id="attachment_1332" style="width: 622px" class="wp-caption alignleft"><a href="http://linkedjazz.org/wp-content/uploads/2016/10/foaf-name-match3.png"><img class="wp-image-1332 size-full" src="http://linkedjazz.org/wp-content/uploads/2016/10/foaf-name-match3.png" alt="foaf name matching" width="612" height="188" /></a><p class="wp-caption-text">An example of matching foaf:name string objects.</p></div>
+<p>The module parsed each full <em>foaf:name</em> object into first name and last name separately, and then matched people with the same first AND the same last name. We employed this method to control for name variants such as “Bill Robinson” = “Bill Bojangles Robinson”, and “Benny Goodman” = “Benny Goodman and His Orchestra.”</p>
+<div id="attachment_1274" style="width: 471px" class="wp-caption alignnone"><a href="http://linkedjazz.org/wp-content/uploads/2016/10/Willie-The-Lion-Smith-parsed.png"><img class="wp-image-1274 size-full" src="http://linkedjazz.org/wp-content/uploads/2016/10/Willie-The-Lion-Smith-parsed.png" alt="Python Human Name Parser" width="461" height="94" /></a><p class="wp-caption-text">Python Human Name Parser helped match names and control variation from nicknames and other differences.</p></div>
+<p>This string matching method is a relatively conservative one, in that it does not account for small name spelling variations. On the other hand, for very common names that may occur for more than one person, we have no automated way to verify that the match is the same person without an authority record/URI.</p>
+<ul>
+<li>The Python Human Name Parser string matching method returned 264 matches.</li>
+<li>The URI matching method (using the RDFLib Python module) returned 268 matches.</li>
+<li>We combined the resulting matches from each method and deleted duplicates, resulting in 373 matches.</li>
+</ul>
+<p>Interestingly two Linked Jazz minted URIs representing George Moore and Robert Harris were matched to Carnegie Hall performers during the string matching process. These individuals represent lesser known jazz musicians because no URI could be identified for them from DBpedia, LC/NAF, MusicBrainz, or AllMusic. The matches of LJ mints to Carnegie Hall performers (and therefore to specific events) indicate the power and potential of linked data interlinking to increase discovery and contextual enrichment of previously siloed data. This matching also points to a benefit of string matching methods, which in this case were still able to identify matches that would have been undiscoverable using only URI matches.</p>
+<p><b>Identifying Common Relationships</b></p>
+<p>With this relatively small set of people that were common to both contexts, we turned to exploring the common relationships <i>between</i> people in these contexts. The Linked Jazz network is built on the ‘knows of’ relationships described above that provide the structure for the <a href="https://linkedjazz.org/network/" target="_blank">Linked Jazz Network Visualization</a>. Using a simple Python script, we isolated each of these ‘knows of’ relationships for each person among the 373 linked people. Similarly, we identified the relationships within Carnegie Hall for the 373 people. The Carnegie Hall relationships were defined by people who performed at the same event. We can’t say definitively that they ‘played together’ because of the sub-events and multiple works that could have been performed with various musicians through a single event. However, we can say that, based on the archival record, the two people were at Carnegie Hall on the same night performing in the same event.</p>
+<p>Finally, we identified the common relationships between these two sets of relationships. Two people connected in this group played at the same Carnegie Hall event AND are linked by a mention in a jazz oral history interview. This kind of network relationship data necessitates some kind of visualization to explore the connections between people. Because of this, as noted, we created an<a href="http://pfch.nyc/linked_jazz_meets_carnegie_hall/CH-LJ_network/index.html" target="_blank"> interactive and searchable visualization</a> using Gephi.</p>
+<p>&nbsp;</p>
+<div id="attachment_1277" style="width: 630px" class="wp-caption alignnone"><a href="http://linkedjazz.org/wp-content/uploads/2016/10/FinalVizLJCH.jpg"><img class="wp-image-1277 " src="http://linkedjazz.org/wp-content/uploads/2016/10/FinalVizLJCH.jpg" alt="Final Static Visualization" width="620" height="620" /></a><p class="wp-caption-text">Static view of the Carnegie Hall and Linked Jazz relationship visualization.</p></div>
+<p><b>Future Work</b></p>
+<p>Rob Hudson and the Carnegie Hall team have continued to curate the performance history database and update the corresponding linked data triples. While this study was limited to jazz events from 1912-1955, more recent event and people data has since been generated. Moving beyond this basic interlinking pilot study, there are many research and data enrichment possibilities in working with this important historical performance information. For example, we could expand the Linked Jazz network by adding ‘knows of’ relationships for those people that performed in the same events at Carnegie Hall. Additionally, Linked Jazz person data could be enriched by information like birth/death year and place or instrument from the Carnegie Hall triples. The temporal information from event dates also has tremendous research potential in tracking the careers of jazz musicians when combined with the relationship network information from Linked Jazz.</p>
+<p>As more libraries, archives, and museums publish data in the RDF format using common URIs, integration with external datasets will likely become simpler. However, string matching methods used to make connections with external data will continue to be an important part of integration work, and therefore warrant attention and testing to find the best method for particular contexts or types of data. Taken with other past and ongoing Linked Jazz use cases and research, we hope to identify common considerations and best practices in approaching data interlinking.</p>
+<p>Python scripts for this study are <a href="https://github.com/mreesele/CH-LJ">available on GitHub</a>.</p>
+<hr />
+<p class="wp-more-tag mce-wp-more" title="Read more..." data-wp-more="more" data-wp-more-text="" data-mce-placeholder="1"><strong>1.</strong> Rob Hudson’s work converting the SQL database to RDF is described <a href="http://www.pilsudski.org/portal/pl/nowosci/blog/529-visualizing-cultural-heritage-linked-open-data-and-the-carnegie-hall-archives">here</a> and <a href="http://www.pilsudski.org/portal/pl/nowosci/blog/530-visualizing-cultural-heritage-linked-open-data-and-the-carnegie-hall-archives-p2">here</a>. The scripts for linked data creation are available on <a href="https://github.com/CarnegieHall/linked-data">GitHub</a>.<br />
+<strong>2.</strong> The relationship and name authority data that Linked Jazz generates <a href="https://linkedjazz.org/access/">are available</a> through a SPARQL endpoint or direct download.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://linkedjazz.org/data-interlinking-linked-jazz-and-carnegie-hall/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New Orleans Jazz and Heritage Foundation Grant</title>
+		<link>https://linkedjazz.org/new-orleans-jazz-and-heritage-foundation-grant/</link>
+		<comments>https://linkedjazz.org/new-orleans-jazz-and-heritage-foundation-grant/#comments</comments>
+		<pubDate>Tue, 11 Oct 2016 22:15:28 +0000</pubDate>
+		<dc:creator><![CDATA[linkedjazz]]></dc:creator>
+				<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://linkedjazz.org/?p=1294</guid>
+		<description><![CDATA[Linked Jazz Director Dr. Cristina Pattuelli has received a grant from the New Orleans Jazz and Heritage Foundation to support the development of a core linked open dataset representing Louisiana-based jazz artists. The work will be undertaken by the Linked Jazz team in collaboration with the Tulane University Digital Library, a unit of the Howard-Tilton [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Linked Jazz Director Dr. Cristina Pattuelli has received a grant from the <a title="New Orleans Jazz and Heritage Foundation" href="http://www.jazzandheritage.org/" target="_blank">New Orleans Jazz and Heritage Foundation</a> to support the development of a core linked open dataset representing Louisiana-based jazz artists.</p>
+<p><a href="http://linkedjazz.org/wp-content/uploads/2016/09/foundation_color_trademark_listing.jpg"><img class="alignleft wp-image-1244 size-thumbnail" src="http://linkedjazz.org/wp-content/uploads/2016/09/foundation_color_trademark_listing-150x150.jpg" alt="New Orleans Jazz &amp; Heritage Foundation" width="150" height="150" /></a>The work will be undertaken by the Linked Jazz team in collaboration with the Tulane University Digital Library, a unit of the Howard-Tilton Memorial Library of Tulane University, and will include resources from the Hogan Jazz Archives.</p>
+<p>This is an exciting opportunity to expand the research of the Linked Jazz Project to the rich history and connections of the New Orleans jazz community.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://linkedjazz.org/new-orleans-jazz-and-heritage-foundation-grant/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
